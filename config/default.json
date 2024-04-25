@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Ivan mern",
+    "mongoUri": "mongodb+srv://zhiv1997:AIR_max1997@cluster0.sf5d613.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "baseUrl": "http://localhost:5000"
+}
